@@ -1,0 +1,12 @@
+﻿  buildDNA.c
+D:\learn\C++\C++primer\DNA解密\Project1\buildDNA.c(36,1): warning C4029: 声明的形参表不同于定义
+  main.c
+  buildDNA.h
+Release\buildDNA.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+main.obj : error LNK2001: 无法解析的外部符号 _buildDNA
+main.obj : error LNK2001: 无法解析的外部符号 _maxConnect
+main.obj : error LNK2001: 无法解析的外部符号 _deleteSame
+main.obj : error LNK2001: 无法解析的外部符号 _lapchar
+main.obj : error LNK2001: 无法解析的外部符号 _getreads
+main.obj : error LNK2001: 无法解析的外部符号 _buildconnect
+D:\learn\C++\C++primer\DNA解密\Release\Project1.exe : fatal error LNK1120: 6 个无法解析的外部命令

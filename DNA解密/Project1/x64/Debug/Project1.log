@@ -1,0 +1,3 @@
+﻿  buildDNA.c
+D:\learn\C++\C++primer\DNA解密\Project1\buildDNA.c(36,1): warning C4029: 声明的形参表不同于定义
+  Project1.vcxproj -> D:\learn\C++\C++primer\DNA解密\x64\Debug\Project1.exe
